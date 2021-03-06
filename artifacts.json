@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
+    "this-repository": "https://github.com/mhrowlan/artifact-directory-template",
+    "project-repository": "https://github.com/mhrowlan/streaming_provider_classifier_inside_vpn",
     "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "project-website-url": "https://mhrowlan.github.io/streaming_provider_classifier_inside_vpn/",
+    "project-website-code": "https://github.com/mhrowlan/streaming_provider_classifier_inside_vpn/tree/gh-pages"
 }
