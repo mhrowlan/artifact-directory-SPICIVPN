@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
-
+SPICIVPN
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Whether to access another country's Netflix library or for privacy, more people are using Virtual Private Networks (VPN) to stream videos than ever before. However, many of the different service providers offer different user experiences that can lead to differences in the network transmissions. In this project we will discuss the methods in which we made a classifying model to determine what streaming service provider was being used over a VPN. The streaming providers that the model identifies are Amazon Prime, Youtube, Netflix, Youtube Live and Twitch. This is valuable in understanding the differences in the network work patterns for the different streaming service providers. Across all providers, our Random Forest model achieves a 96.5% accuracy in provider classification. 
+
