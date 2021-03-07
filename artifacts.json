@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/mhrowlan/artifact-directory-SPICIVPN",
     "project-repository": "https://github.com/mhrowlan/streaming_provider_classifier_inside_vpn",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
+    "dockerhub-repository": "jeq004/streaming_provider_classifier_inside_vpn:latest",
     "project-website-url": "https://mhrowlan.github.io/streaming_provider_classifier_inside_vpn/",
     "project-website-code": "https://github.com/mhrowlan/streaming_provider_classifier_inside_vpn/tree/gh-pages"
 }
